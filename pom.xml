@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>tech.oxymen.edi</groupId>
-  <artifactId>mapper.protocal</artifactId>
+  <artifactId>mapper.protocol</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>OXYMEN EDI Protocal</name>
+  <name>OXYMEN EDI Protocol</name>
   <!-- FIXME change it to the project's website -->
   <url>https://www.oxymen.tech</url>
 

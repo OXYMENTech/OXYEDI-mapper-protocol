@@ -1,4 +1,4 @@
-package tech.oxymen.edi.protocal;
+package tech.oxymen.edi.protocol;
 
 import java.io.File;
 import java.util.Map;
